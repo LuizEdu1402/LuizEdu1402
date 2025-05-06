@@ -1,3 +1,7 @@
+# 🤖 LuizBot – O Arquimago dos Dados
+
+![LuizBot Banner](https://chatgpt.com/s/m_681a607664388191a447d97374693540)
+
 # 👋 Olá! Eu sou o Luiz Eduardo
 
 🎯 Desenvolvedor com foco em **Python**, **Java** e **SQL**.  

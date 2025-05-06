@@ -1,27 +1,44 @@
 # 👋 Olá! Eu sou o Luiz Eduardo
 
-🎯 Desenvolvedor com foco em **Python**, **Java** e **SQL**.  
-📊 Apaixonado por dados, automação e resolver problemas com código limpo.  
-🚀 Buscando sempre aprender mais e contribuir com a comunidade tech!
+🎓 Estudante de **Engenharia de Software** na UMC  
+🚀 Apaixonado por **tecnologia, inovação** e **desenvolvimento de software**
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🧠 Sobre mim
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+Sou uma pessoa movida pela curiosidade e pela vontade constante de evoluir. Tenho interesse especial por programação, análise de sistemas e o impacto real que o software pode gerar no dia a dia das pessoas. Estou trilhando meu caminho no mundo da tecnologia com foco, disciplina e muita vontade de fazer a diferença.
 
 ---
 
-### 📈 Estatísticas do GitHub
+## 💻 Tecnologias & Ferramentas
 
-![Luiz Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizeduardo&show_icons=true&theme=radical)
+- 💡 **Lógica de Programação**
+- 🐍 **Python** básico
+- ⚙️ **Git & GitHub**
 
 ---
 
-### 📫 Onde me encontrar
+## 🎯 Objetivos
 
-- LinkedIn: [linkedin.com/in/luiz-eduardo-vieira-lopes-7a9611348]
-- Email: [proluiz87@gmail.com]
+- Aprimorar habilidades em programação e desenvolvimento web  
+- Conseguir minha primeira oportunidade na área de tecnologia  
+
+---
+
+## 📬 Vamos nos conectar?
+
+- 💼 [LinkedIn](linkedin.com/in/luiz-eduardo-vieira-lopes-7a9611348)
+- 📧 proluiz87@gmail.com
+
+---
+
+<!-- GitHub Stats -->
+![Luiz Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizeduardo&show_icons=true&theme=dracula)
+
+<!-- Top Langs -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardo&layout=compact&theme=dracula)
+
+---
+
+🛠️ *Obrigado por visitar meu perfil!*

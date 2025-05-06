@@ -1,11 +1,9 @@
 # 👋 Olá! Eu sou o Luiz Eduardo
 
-🎓 Estudante de **Engenharia de Software** na UMC  
-🚀 Apaixonado por **tecnologia, inovação** e **desenvolvimento de software**
+🎓 Atualmente estou cursando **Engenharia de Software** na UMC  
+🚀 Sou Apaixonado por **tecnologia, inovação** e **desenvolvimento de software**
 
----
-
-## 🧠 Sobre mim
+## 🧠 Um pouco sobre mim
 
 Sou uma pessoa movida pela curiosidade e pela vontade constante de evoluir. Tenho interesse especial por programação, análise de sistemas e o impacto real que o software pode gerar no dia a dia das pessoas. Estou trilhando meu caminho no mundo da tecnologia com foco, disciplina e muita vontade de fazer a diferença.
 
@@ -14,8 +12,10 @@ Sou uma pessoa movida pela curiosidade e pela vontade constante de evoluir. Tenh
 ## 💻 Tecnologias & Ferramentas
 
 - 💡 **Lógica de Programação**
+- 🌐 **JavaScript** (em processo)
 - 🐍 **Python** básico
 - ⚙️ **Git & GitHub**
+- 💾 **SQL**
 
 ---
 
